@@ -2,16 +2,16 @@
   "name": "code-runner",
   "version": "1.0.0",
   "description": "A simple code runner server",
-  "main": "index.js", // or the main entry file for your application
+  "main": "index.js", 
   "scripts": {
-    "start": "node app.js" // adjust the start script based on your entry file
+    "start": "node app.js" 
   },
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0"
   },
   "engines": {
-    "node": ">=14.0.0" // Adjust the Node.js version as needed
+    "node": ">=14.0.0" 
   },
   "devDependencies": {},
   "keywords": ["express", "code runner"],
