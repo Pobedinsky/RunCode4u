@@ -4,7 +4,7 @@
   "description": "A simple code runner server",
   "main": "index.js", 
   "scripts": {
-    "start": "node app.js" 
+    "start": "node index.js" 
   },
   "dependencies": {
     "express": "^4.17.1",
