@@ -1,5 +1,5 @@
 {
-  "name": "code-runner",
+  "name": "runCode4u",
   "version": "1.0.0",
   "description": "A simple code runner server",
   "main": "index.js", 
