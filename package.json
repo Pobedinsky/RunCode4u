@@ -2,7 +2,7 @@
   "name": "runCode4u",
   "version": "1.0.0",
   "description": "A simple code runner server",
-  "main": "src/index.js", 
+  "main": "index.js", 
   "scripts": {
     "start": "node index.js" 
   },
